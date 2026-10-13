@@ -1,3 +1,13 @@
+---
+title: 项目-夺魁 · README
+source: 小萌整理（独立小说项目入口）
+date: 2026-10-13
+tags: [小说, 项目, 夺魁, README]
+confidence: 高
+review_by: 2027-04-13
+type: index
+status: current
+---
 # 项目 · 《夺魁》
 
 > **定位**：《夺魁》（起点男频 · 虚拟网游 · 水浒）独立创作项目，从知识库 `项目-夺魁/` 移出（2026-10-13）。
