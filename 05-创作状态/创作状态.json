@@ -2,16 +2,16 @@
   "_说明": "创作状态JSON（skill: novel-writer-engine 3.5 断点续传 / 长篇维护）。只记实证数据，不编。每次写完一章由 write_pipeline 或手动更新。字段：current_chapter/current_volume/active_hooks/character_states/pleasure_points + 长篇维护(active_characters_archive/hooks_cleanup/state_compression)。",
   "_更新日期": "2026-10-08",
   "_数据来源": "项目-夺魁/04-正文/卷一/第003章-异象.md（甲案+C方案）；19-卷一细纲 L63-71；20-卷一 §二 幕一；27-硬缺口 §3.2（现象层）",
-  "current_chapter": 1,
-  "current_chapter_file": "项目-夺魁/04-正文/卷一/第001章-入局.md",
-  "current_chapter_title": "第001章 入局",
-  "current_chapter_words": 2629,
-  "current_chapter_status": "B版口径已写（2026-10-16）：进游戏→登出失败→H1钩；GATE:PASS",
+  "current_chapter": 0,
+  "current_chapter_file": "",
+  "current_chapter_title": "（正文未写，2026-10-16 撤销越界写的第001章）",
+  "current_chapter_words": 0,
+  "current_chapter_status": "正文未写——10-16 越界所写第001章已撤销（移至 .trash/2026-10-16-越界正文撤销/，可恢复）",
   "current_volume": 1,
   "current_volume_name": "入局（版本·伏魔殿）",
   "current_volume_range": "第 1–85 章",
-  "current_scene": "【游戏内】郓城县东溪村——醒来发现登出无效（按钮灰·界面层），章末更鼓暗纹像一个字（H14 异象初露）",
-  "next_chapter_plan": "第 2 章「边界」：试探「无法退出」边界（找客服/NPC/系统全无效）→ 恐惧升级；伏笔 H2「他不是第一个困在这的」+H13 铺垫；爽点小爽（发现线索）；接第 3 章异象",
+  "current_scene": "（待主人令开写后再定）",
+  "next_chapter_plan": "等主人明确指令开写（不从待办推断动笔，2026-10-16 教训）",
   "active_hooks": [
     {
       "id": "H1",
@@ -21,7 +21,7 @@
       "埋设": "卷一第 3 章末（C 方案：第 3 章只留异象不点破任务，幕三才点破）",
       "预计回收": "卷四（来源碎片）／谜底分层释放表 §四",
       "锚": "23-伏笔索引 L22；20-卷一 §二 幕一",
-      "status": "待埋·第3章末（第001章只做预告，关键词「更鼓暗纹/像一个字」已露一角）"
+      "status": "待埋（正文未写，2026-10-16 撤销越界第001章后重置）"
     },
     {
       "id": "H14",
@@ -31,7 +31,7 @@
       "埋设": "卷一第 1 章末（更鼓暗纹像一个字，风过散去）",
       "预计回收": "与 H1 同源，不点谜底（守第 22 项）",
       "锚": "23-伏笔索引 L37；第001章正文「更鼓暗纹」段〔待重写后同步〕",
-      "status": "已埋·第001章（2026-10-16 B版重写，关键词「暗纹/像一个字」命中正文）"
+      "status": "待埋（正文未写，2026-10-16 撤销越界第001章后重置）"
     },
     {
       "id": "H13",
